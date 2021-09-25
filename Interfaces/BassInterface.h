@@ -7,7 +7,7 @@
 #include <filesystem>
 #include <iostream>
 
-#define CONAUD_VERSION 1.0
+#define CONAUD_VERSION 1.1
 
 using namespace std;
 namespace fs = std::filesystem;
